@@ -1,2 +1,2 @@
 # .github
-Hồ sơ
+Hồ sơ công ty
